@@ -1,0 +1,3 @@
+local a = require(game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Tool").ConfigMods.CConfig)
+        
+        a.Firerate = 0.01

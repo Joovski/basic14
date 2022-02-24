@@ -1,0 +1,7 @@
+local a = require(game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Tool").ConfigMods.CConfig)
+        
+        a.BaseDamage = 100
+        a.LimbDamage = 100
+        a.ArmorDamage = 100
+        a.HeadDamage = 100
+        a.EShieldDamage = 100
